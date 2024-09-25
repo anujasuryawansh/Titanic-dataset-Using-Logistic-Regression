@@ -1,1 +1,1 @@
-# Titanic-dataset-Using-Logistic-Regression
+# Titanic-Survival Prediction-Using-Logistic-Regression
